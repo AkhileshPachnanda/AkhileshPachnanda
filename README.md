@@ -1,21 +1,6 @@
 <div align="center">
 
-```
-╔─────────────────────────────────────────────────────────────────────────╗
-│                                                                         │
-│   akhilesh@github                                                       │
-│   ──────────────────────────────────────────────────────────────────   │
-│   OS       :  Student OS v2.0 — 2nd Year Undergrad                     │
-│   Location :  Bengaluru, Karnataka                                      │
-│   Focus    :  Frontend · Backend · Blockchain                           │
-│   Shell    :  C++ / JavaScript / Python                                 │
-│   IDE      :  VS Code                                                   │
-│   Orgs     :  @ieee-cs-bmsit · @GetYourFit                             │
-│   Seeking  :  Practical experience & real-world exposure               │
-│   Status   :  always learning, occasionally shipping                   │
-│                                                                         │
-╚─────────────────────────────────────────────────────────────────────────╝
-```
+[![Screenshot-2026-03-08-021224.png](https://i.postimg.cc/DfrGjtv7/Screenshot-2026-03-08-021224.png)](https://postimg.cc/0rNrrXK4)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+akhilesh+pachnanda;%24+interests+%E2%86%92+blockchain+%7C+problem+solving+%7C+systems;%24+git+log+--oneline+%E2%86%92+learning+every+commit)](https://git.io/typing-svg)
 

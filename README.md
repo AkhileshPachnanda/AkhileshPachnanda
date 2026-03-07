@@ -1,6 +1,7 @@
 <div align="center">
 
-![Stats-AkhileshPachnanda](neofetch.svg)
+<img src="neofetch.svg" width="100%" alt="Desc- Akhilesh Pachnanda"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+akhilesh+pachnanda;%24+interests+%E2%86%92+blockchain+%7C+problem+solving+%7C+systems;%24+git+log+--oneline+%E2%86%92+learning+every+commit)](https://git.io/typing-svg)
 

@@ -11,11 +11,13 @@
 
 ## `tools/stack.txt`
 
-<div align="center">
-
-[![skill icons](https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,tailwind,mysql,mongodb,git,github,vscode,linux,arduino,bash,blender,docker,cloudflare,ai,matlab,ps,vercel,figma,canva&theme=dark)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,tailwind,mysql&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,linux,arduino,bash,blender,docker,cloudflare&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ai,matlab,ps,vercel,figma,canva&theme=dark" />
+</p>
 
 ---
 

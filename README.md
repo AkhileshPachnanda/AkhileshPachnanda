@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AkhileshPachnanda&theme=dark&hide_border=true&border_radius=5&short_numbers=true&mode=weekly&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AkhileshPachnanda&theme=dark&hide_border=true&border_radius=5&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
